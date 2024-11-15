@@ -1,0 +1,3 @@
+Replace the Postgresql DB credentials with your DB credentials
+Command for run - go run main.go
+Use postman to test APIs
